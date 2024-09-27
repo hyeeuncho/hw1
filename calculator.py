@@ -5,4 +5,5 @@ def caculator():
     print("차:",a-b)
     print("곱:",a*b)
     print("몫:",a/b)
+    print("b1")
 caculator()
